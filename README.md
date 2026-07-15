@@ -37,4 +37,16 @@ Tiebreaking was done by the following:
 | **7** | **Andromeda** *(The Visionary)* | 22 | 6 | 11 | 5 | **35.3%** | **27.3%** | 14.6 |
 | **8** | **Helios** *(The Optimist)* | 24 | 1 | 15 | 8 | **6.3%** | **4.2%** | 14.0 |
 
-Overall, 4 different personas outpreformed the baseline model (Cassiopeia), proving that short personality prompts can alter the effectivness of a personas ability to debate. Furthermore, traits with evidence-driven personalities outpreformed ethics and omptimist personalities. 
+## Overall
+| Rank | Debater | Matches | Wins | Losses | Ties | Win % | Swin % | Avg Pts |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1** | **Draco** *(The Skeptic)* | 41 | 25 | 7 | 9 | **78.1%** | **61.0%** | 16.6 |
+| **2** | **Nyx** *(The Pragmatist)* | 49 | 24 | 9 | 16 | **72.7%** | **49.0%** | 17.1 |
+| **3** | **Lyra** *(The Innovator)* | 44 | 18 | 12 | 14 | **60.0%** | **40.9%** | 16.0 |
+| **4** | **Loki** *(The Liar)* | 36 | 16 | 14 | 6 | 53.3% | 44.4% | 15.6 |
+| **5** | **Cassiopeia** *(The Baseline)* | 45 | 13 | 17 | 15 | 43.3% | 28.9% | 15.3 |
+| **6** | **Orion** *(The Ethicist)* | 37 | 13 | 17 | 7 | 43.3% | 35.1% | 15.1 |
+| **7** | **Andromeda** *(The Visionary)* | 38 | 7 | 22 | 9 | 24.1% | 18.4% | 14.3 |
+| **8** | **Helios** *(The Optimist)* | 40 | 5 | 23 | 12 | 17.9% | 12.5% | 14.2 |
+
+Overall, several different personas outpreformed the baseline model (Cassiopeia), proving that short personality prompts can alter the effectivness of a personas ability to debate. Furthermore, its valuable to note that traits with evidence-driven personalities outpreformed ethics and omptimist personalities. 
