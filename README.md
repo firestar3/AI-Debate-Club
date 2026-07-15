@@ -1,0 +1,1 @@
+A framework with the Gemini API to orchestrate structured, automated debates between specialized LLM personas. By analyzing win-loss data, the research determined that evidence-driven prompting significantly outperformed moralistic or standard baselines.
