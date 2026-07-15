@@ -1,4 +1,16 @@
+# AI Debate Club
 This application is an AI Debate Club platform where users can configure and watch structured, intellectual debates between different AI personas with distinct arguing styles and traits. Debates are conducted automatically across two rounds to ensure competitive fairness, with each debater getting an equal opportunity to argue both "For" (Affirmative) and "Against" (Negative) the chosen topic. Each round follows a precise, professional six-phase debate format consisting of Constructive speeches, Rebuttals, and Final Focus summaries from both sides. Upon completion of the turns, an independent AI Judge evaluates the transcript, awards scores based on argumentative depth and rhetorical skill, and provides detailed feedback. The scores and win/loss records are then aggregated to determine the overall match winner and update the interactive Leaderboard. (Debaters Model: gemini-3.1-flash-lite-preview, Judges Model: gemini-3.5-flash)
+
+# Results
+Each table contains the metrics for different personality personas of several debates between themselves. Each debate could end in a win (2-0), loss (0-2), or tie (1-1) along with a second out of 20 possible poitns for each debater.
+Win% = Wins/(Wins+Loses)
+Swin% = Wins/(Wins+Ties+Loses)
+
+Tiebreaking was done by the following:
+1. Win%
+2. Avg Pts
+3. Wins
+4. Coinflip
 
 ## Season 1
 | Rank | Debater | Matches | Wins | Losses | Ties | Win % | Swin % | Avg Pts |
