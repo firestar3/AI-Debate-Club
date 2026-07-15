@@ -25,4 +25,16 @@ Tiebreaking was done by the following:
 | **7** | **Helios** *(The Optimist)* | 16 | 4 | 8 | 4 | **33.3%** | **25.0%** | 14.5 |
 | **8** | **Andromeda** *(The Visionary)* | 16 | 1 | 11 | 4 | **8.3%** | **6.3%** | 14.0 |
 
+## Season 2
+| Rank | Debater | Matches | Wins | Losses | Ties | Win % | Swin % | Avg Pts |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1** | **Draco** *(The Skeptic)* | 23 | 16 | 3 | 4 | **84.2%** | **69.6%** | 16.7 |
+| **2** | **Nyx** *(The Pragmatist)* | 31 | 14 | 6 | 11 | **70.0%** | **45.2%** | 16.9 |
+| **3** | **Loki** *(The Liar)* | 20 | 9 | 9 | 2 | **50.0%** | **45.0%** | 15.5 |
+| **4** | **Lyra** *(The Innovator)* | 26 | 10 | 7 | 9 | **58.8%** | **38.5%** | 15.8 |
+| **5** | **Orion** *(The Ethicist)* | 21 | 8 | 10 | 3 | **44.4%** | **38.1%** | 15.2 |
+| **6** | **Cassiopeia** *(The Baseline)* | 27 | 7 | 10 | 10 | **41.2%** | **25.9%** | 15.2 |
+| **7** | **Andromeda** *(The Visionary)* | 22 | 6 | 11 | 5 | **35.3%** | **27.3%** | 14.6 |
+| **8** | **Helios** *(The Optimist)* | 24 | 1 | 15 | 8 | **6.3%** | **4.2%** | 14.0 |
+
 Overall, 4 different personas outpreformed the baseline model (Cassiopeia), proving that short personality prompts can alter the effectivness of a personas ability to debate. Furthermore, traits with evidence-driven personalities outpreformed ethics and omptimist personalities. 
