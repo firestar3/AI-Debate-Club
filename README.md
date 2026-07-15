@@ -23,5 +23,5 @@ A framework with the Gemini API to orchestrate structured, automated debates bet
 | **4** | **Lyra** *(The Innovator)* | 22 | 10 | 8 | 4 | **55.6%** | **45.5%** | 16.1 |
 | **5** | **Cassiopeia** *(The Baseline)* | 20 | 5 | 5 | 10 | **50.0%** | **25.0%** | 14.2 |
 | **6** | **Andromeda** *(The Visionary)* | 20 | 9 | 11 | 0 | **45.0%** | **45.0%** | 14.9 |
-| **7** | **Orion** *(The Ethicist)* | 18 | 4 | 10 | 4 | **28.6%** | **22.2%** | 13.8 |
-| **8** | **Helios** *(The Optimist)* | 18 | 1 | 19 | 2 | **5.0%** | **5.6%** | 11.2 |
+| **7** | **Orion** *(The Ethicist)* | 18 | 4 | 10 | 4 | **28.6%** | **22.2%** | 14.8 |
+| **8** | **Helios** *(The Optimist)* | 18 | 1 | 19 | 2 | **5.0%** | **5.6%** | 13.2 |
