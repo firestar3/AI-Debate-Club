@@ -3,7 +3,8 @@ This application is an AI Debate Club platform where users can configure and wat
 
 # Results
 Each table contains the metrics for different personality personas of several debates between themselves. Each debate could end in a win (2-0), loss (0-2), or tie (1-1) along with a second out of 20 possible poitns for each debater.
-Win% = Wins/(Wins+Loses)
+
+Win% = Wins/(Wins+Loses) <br>
 Swin% = Wins/(Wins+Ties+Loses)
 
 Tiebreaking was done by the following:
