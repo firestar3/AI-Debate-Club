@@ -1,7 +1,5 @@
 A framework with the Gemini API to orchestrate structured, automated debates between specialized LLM personas. By analyzing win-loss data, the research determined that evidence-driven prompting significantly outperformed moralistic or standard baselines.
 
-# Performance Rankings
-
 ## Season 1
 | Rank | Debater | Matches | Wins | Losses | Ties | Win % | Swin % | Avg Pts |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
